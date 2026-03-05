@@ -1,7 +1,5 @@
 # Project-Resume-Classification
 
-# Resume Classification & Skill Extraction System
-
 ## Problem Statement & Business Objectives
 
 Recruiters and HR teams often receive hundreds or thousands of resumes for a single job opening. Manually reviewing each resume is extremely time-consuming, prone to human error and bias, and inefficient — wasting valuable time, money, and productivity.
